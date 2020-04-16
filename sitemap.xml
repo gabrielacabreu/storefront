@@ -302,6 +302,30 @@
     </url>
   
     <url>
+      <loc>https://saurasloja.netlify.app/zara</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://saurasloja.netlify.app/thermaltake</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://saurasloja.netlify.app/dell</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://saurasloja.netlify.app/xiaomi</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
       <loc>https://saurasloja.netlify.app/colecao-1</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -357,30 +381,6 @@
   
     <url>
       <loc>https://saurasloja.netlify.app/teclados-e-mouses</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://saurasloja.netlify.app/zara</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://saurasloja.netlify.app/thermaltake</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://saurasloja.netlify.app/dell</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://saurasloja.netlify.app/xiaomi</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
     </url>
