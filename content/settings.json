@@ -4,7 +4,7 @@
   "domain": "saurasloja.netlify.app",
   "short_name": "MyShop",
   "description": "My PWA Shop",
-  "primary_color": "#383d44",
+  "primary_color": "#880A88",
   "secondary_color": "#7F7F7F",
   "bg_color": "#ffffff",
   "theme": {
